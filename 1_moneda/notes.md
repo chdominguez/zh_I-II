@@ -260,3 +260,15 @@ Expresa deseo o intención, menos firme que 要.
 > 这道题很难。  
 > _Zhè dào tí hěn nán._  
 > Este ejercicio es difícil.
+
+### 📖 Vocabulario extra
+
+- 认真
+- 周末我们可以一起去爬山采蘑菇。我爱蘑菇！
+
+https://www.liveworksheets.com/worksheet/zh/chinese-language-cl/1196925
+
+- 我们可以去电影院看电影吧！
+- 那个裙子是我的！红色的是她的。
+- 我会说英语，还会日语。
+- 要是你想喝可乐，我就买你一瓶。
