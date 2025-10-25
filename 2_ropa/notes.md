@@ -4,15 +4,29 @@
 
 #### 👕 基本服装 _Jīběn fúzhuāng_ — Ropa básica
 
-| 汉字   | 拼音       | 西语           |
-| ------ | ---------- | -------------- |
-| 衣服   | yīfu       | ropa           |
-| 上衣   | shàngyī    | ropa de arriba |
-| 裤子   | kùzi       | pantalones     |
-| 裙子   | qúnzi      | falda          |
-| 连衣裙 | liányīqún  | vestido        |
-| 鞋子   | xiézi      | zapatos        |
-| 牛仔裤 | niú zǎi kù | tejanos        |
+| 汉字   | 拼音       | 西语                  |
+| ------ | ---------- | --------------------- |
+| 衣服   | yīfu       | ropa                  |
+| 上衣   | shàngyī    | ropa de arriba        |
+| 裤子   | kùzi       | pantalones            |
+| 裙子   | qúnzi      | falda                 |
+| 连衣裙 | liányīqún  | vestido               |
+| 鞋子   | xiézi      | zapatos               |
+| 牛仔裤 | niú zǎi kù | tejanos               |
+| 衬衫   | chènshān   | camisa                |
+| 外套   | wàitào     | abrigo                |
+| 夹克   | jiákè      | chaqueta              |
+| T 恤   | T xù       | camiseta              |
+| 袜子   | wàzi       | calcetines            |
+| 帽子   | màozi      | sombrero              |
+| 运动鞋 | yùndòngxié | zapatillas deportivas |
+| 睡衣   | shuìyī     | pijama                |
+| 雨衣   | yǔyī       | chubasquero           |
+| 毛衣   | máoyī      | suéter                |
+| 游泳衣 | yóuyǒngyī  | traje de baño         |
+| 运动衣 | yùndòngyī  | ropa deportiva        |
+| 大衣   | dàyī       | abrigo largo          |
+| 外衣   | wàiyī      | abrigo exterior       |
 
 #### 👗 动作相关 _Dòngzuò xiāngguān_ — Acciones relacionadas
 
@@ -287,3 +301,145 @@ Se usa al final de la oración como muletilla, similar al "¿no?" en español.
 > 我很少用现金。  
 > _Wǒ hěn shǎo yòng xiànjīn._  
 > Pocas veces uso efectivo.
+
+### Vocabulario extra
+
+| 汉字                                     | 拼音                                                   | Español                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| 认真                                     | rènzhēn                                                | serio, aplicado                                                                          |
+| 周末我们可以一起去爬山采蘑菇。我爱蘑菇！ | Zhōumò wǒmen kěyǐ yīqǐ qù páshān cǎi mógū. Wǒ ài mógū! | El fin de semana podemos ir juntos a la montaña a recoger setas. ¡Me encantan las setas! |
+| 聊天                                     | liáotiān                                               | charlar, conversar                                                                       |
+| 我们可以去电影院看电影吧！               | Wǒmen kěyǐ qù diànyǐngyuàn kàn diànyǐng ba!            | ¡Podemos ir al cine a ver una película!                                                  |
+| 那个裙子是我的！红色的是她的。           | Nà gè qúnzi shì wǒ de! Hóngsè de shì tā de.            | ¡Ese vestido es mío! El rojo es de ella.                                                 |
+| 我会说英语，还会日语。                   | Wǒ huì shuō Yīngyǔ, hái huì Rìyǔ.                      | Sé hablar inglés, también japonés.                                                       |
+| 要是你想喝可乐，我就买你一瓶。           | Yàoshi nǐ xiǎng hē kělè, wǒ jiù mǎi nǐ yī píng.        | Si quieres beber coca-cola, te compro una botella.                                       |
+| 小气                                     | xiǎoqì                                                 | tacaño                                                                                   |
+| 有用                                     | yǒuyòng                                                | útil                                                                                     |
+| 一千                                     | yīqiān                                                 | mil                                                                                      |
+| 差不多                                   | chàbuduō                                               | más o menos / casi                                                                       |
+| 很少                                     | hěn shǎo                                               | muy poco, rara vez                                                                       |
+| 所有                                     | suǒyǒu                                                 | todo, todos                                                                              |
+
+**很少 vs 常常 对比 _Duìbǐ_ — Comparación**
+
+- 很少 _hěn shǎo_ indica que algo ocurre rara vez o muy poco.
+
+> 我很少喝咖啡。  
+> _Wǒ hěn shǎo hē kāfēi._  
+> Rara vez tomo café.
+
+- 常常 _chángcháng_ indica que algo ocurre con frecuencia.
+
+> 我常常喝咖啡。  
+> _Wǒ chángcháng hē kāfēi._  
+> A menudo tomo café.
+
+[Ejercicio interactivo](https://www.liveworksheets.com/worksheet/zh/chinese-language-cl/1196925)
+
+### Ejercicio de diálogo — Comprar ropa
+
+**A:** 你好！我要买一双蓝色的运动鞋。  
+_Nǐ hǎo! Wǒ yào mǎi yī shuāng lánsè de yùndòngxié._  
+Hola, quiero comprar un par de zapatillas deportivas azules.
+
+**B:** 您觉得这双运动鞋怎么样？  
+_Nín juéde zhè shuāng yùndòngxié zěnmeyàng?_  
+¿Qué le parecen estas zapatillas deportivas?
+
+**A:** 我觉得这双有点儿小。  
+_Wǒ juéde zhè shuāng yǒudiǎnr xiǎo._  
+Creo que este par es un poco pequeño.
+
+**B:** 你还想买什么？  
+_Nǐ hái xiǎng mǎi shénme?_  
+¿Quieres comprar algo más?
+
+**A:** 我想买一件紫色的毛衣。  
+_Wǒ xiǎng mǎi yī jiàn zǐsè de máoyī._  
+Quiero comprar un suéter morado.
+
+**B:** 这件紫色毛衣五十六元。  
+_Zhè jiàn zǐsè máoyī wǔshíliù yuán._  
+Este suéter morado cuesta 56 yuanes.
+
+**A:** 我的妈呀！这件毛衣很贵，也不好看。我不想买这件的。一共多少钱？  
+_Wǒ de mā ya! Zhè jiàn máoyī hěn guì, yě bù hǎokàn. Wǒ bù xiǎng mǎi zhè jiàn de. Yígòng duōshǎo qián?_  
+¡Madre mía! Este suéter es muy caro y tampoco es bonito. No quiero comprar este. ¿Cuánto es en total?
+
+**B:** 这双运动鞋一百二十五元，你要怎么支付？  
+_Zhè shuāng yùndòngxié yībǎi èrshíwǔ yuán, nǐ yào zěnme zhīfù?_  
+Estas zapatillas deportivas son 125 yuanes, ¿cómo quieres pagar?
+
+**A:** 我要付现金。我给你一百三十块现金。  
+_Wǒ yào fù xiànjīn. Wǒ gěi nǐ yībǎi sānshí kuài xiànjīn._  
+Quiero pagar en efectivo. Te doy 130 yuanes en efectivo.
+
+**B:** 我找你五元。  
+_Wǒ zhǎo nǐ wǔ yuán._  
+Te devuelvo 5 yuanes.
+
+**A:** 谢谢，再见！  
+_Xièxie, zàijiàn!_  
+Gracias, adiós.
+
+### Ejercicio de diálogo — Comprar pantalón y abrigo
+
+**A:** 你好！欢迎光临。  
+_Nǐ hǎo! Huānyíng guānglín._  
+Hola, bienvenido.
+
+**B:** 你好，我想买一条黑色的裤子。  
+_Nǐ hǎo, wǒ xiǎng mǎi yī tiáo hēisè de kùzi._  
+Hola, quiero comprar un pantalón negro.
+
+**A:** 对不起，没有黑色的。有红色，白色和蓝色。  
+_Duìbuqǐ, méiyǒu hēisè de. Yǒu hóngsè, báisè hé lánsè._  
+Lo siento, no hay negro. Hay rojo, blanco y azul.
+
+**B:** 白色的很好看，多少钱？  
+_Báisè de hěn hǎokàn, duōshǎo qián?_  
+El blanco es bonito, ¿cuánto cuesta?
+
+**A:** 白色的十块。  
+_Báisè de shí kuài._  
+El blanco cuesta diez yuanes.
+
+**B:** 很便宜，我就买吧。还想买一件咖啡色的外衣。  
+_Hěn piányi, wǒ jiù mǎi ba. Hái xiǎng mǎi yī jiàn kāfēisè de wàiyī._  
+Muy barato, lo compro. También quiero comprar un abrigo marrón.
+
+**A:** 这件怎么样？  
+_Zhè jiàn zěnmeyàng?_  
+¿Qué tal este?
+
+**B:** 这件很难看。有别的吗？  
+_Zhè jiàn hěn nánkàn. Yǒu bié de ma?_  
+Este es feo. ¿Hay otro?
+
+**A:** 这件很好看。  
+_Zhè jiàn hěn hǎokàn._  
+Este es bonito.
+
+**B:** 我喜欢，一共多少钱？  
+_Wǒ xǐhuan, yígòng duōshǎo qián?_  
+Me gusta, ¿cuánto es en total?
+
+**A:** 一百欧元。  
+_Yī bǎi ōuyuán._  
+Cien euros.
+
+**B:** 刷卡可以吗？  
+_Shuākǎ kěyǐ ma?_  
+¿Puedo pagar con tarjeta?
+
+**A:** 不可以，你可以用微信吗？  
+_Bù kěyǐ, nǐ kěyǐ yòng Wēixìn ma?_  
+No se puede, ¿puedes usar WeChat?
+
+**B:** 可以。  
+_Kěyǐ._  
+Sí.
+
+**A:** 欢迎你再来。  
+_Huānyíng nǐ zài lái._  
+Bienvenido de nuevo.

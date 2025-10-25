@@ -261,14 +261,18 @@ Expresa deseo o intención, menos firme que 要.
 > _Zhè dào tí hěn nán._  
 > Este ejercicio es difícil.
 
-### 📖 Vocabulario extra
+### 📹 视频 _Shìpín_ — Video
 
-- 认真
-- 周末我们可以一起去爬山采蘑菇。我爱蘑菇！
+[Practica compras](https://www.youtube.com/watch?v=iQ7s_Xuw0Kc)
 
-https://www.liveworksheets.com/worksheet/zh/chinese-language-cl/1196925
+### 🛒 额外词汇 _Éwài Cíhuì_ — Vocabulario extra
 
-- 我们可以去电影院看电影吧！
-- 那个裙子是我的！红色的是她的。
-- 我会说英语，还会日语。
-- 要是你想喝可乐，我就买你一瓶。
+| 汉字 | 拼音   | 西语               |
+| ---- | ------ | ------------------ |
+| 不行 | bùxíng | no poder pagar con |
+
+**例句 _lìjù_ — Ejemplo:**
+
+> 我不行用信用卡。  
+> _Wǒ bùxíng yòng xìnyòngkǎ._  
+> No puedo pagar con tarjeta de crédito.
