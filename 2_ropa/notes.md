@@ -443,3 +443,12 @@ Sí.
 **A:** 欢迎你再来。  
 _Huānyíng nǐ zài lái._  
 Bienvenido de nuevo.
+
+### Vocabulario: niño, niña, chico, chica
+
+| 汉字   | 拼音     | Español     |
+| ------ | -------- | ----------- |
+| 男孩儿 | nánháir  | niño, chico |
+| 男孩子 | nánháizi | niño, chico |
+| 女孩儿 | nǚháir   | niña, chica |
+| 女孩子 | nǚháizi  | niña, chica |
