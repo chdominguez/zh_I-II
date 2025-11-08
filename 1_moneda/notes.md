@@ -276,3 +276,42 @@ Expresa deseo o intención, menos firme que 要.
 > 我不行用信用卡。  
 > _Wǒ bùxíng yòng xìnyòngkǎ._  
 > No puedo pagar con tarjeta de crédito.
+
+### 🛠️ 二手物品购买 _Èrshǒu Wùpǐn Gòumǎi_ — Comprar de segunda mano
+
+| 汉字   | 拼音      | 西语            |
+| ------ | --------- | --------------- |
+| 二手的 | èrshǒu de | de segunda mano |
+| 手机   | shǒujī    | móvil           |
+
+**例句 _lìjù_ — Ejemplo:**
+
+> 我想买二手的手机。  
+> _Wǒ xiǎng mǎi èrshǒu de shǒujī._  
+> Quiero comprar un móvil de segunda mano.
+
+> 这个电脑是二手的。  
+> _Zhège diànnǎo shì èrshǒu de._  
+> Este ordenador es de segunda mano.
+
+### 🏬 商场、商店、网上 _Shāngchǎng, Shāngdiàn, Wǎngshàng_ — Lugares para comprar
+
+| 汉字 | 拼音       | West.            |
+| ---- | ---------- | ---------------- |
+| 商场 | shāngchǎng | centro comercial |
+| 商店 | shāngdiàn  | tienda           |
+| 网上 | wǎngshàng  | en línea         |
+
+**例句 _lìjù_ — Ejemplo:**
+
+> 我在商场买衣服。  
+> _Wǒ zài shāngchǎng mǎi yīfu._  
+> Compro ropa en el centro comercial.
+
+> 这个商店很大。  
+> _Zhège shāngdiàn hěn dà._  
+> Esta tienda es grande.
+
+> 我喜欢在网上购物。  
+> _Wǒ xǐhuan zài wǎngshàng gòuwù._  
+> Me gusta comprar en línea.
