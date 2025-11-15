@@ -315,3 +315,11 @@ Expresa deseo o intención, menos firme que 要.
 > 我喜欢在网上购物。  
 > _Wǒ xǐhuan zài wǎngshàng gòuwù._  
 > Me gusta comprar en línea.
+
+### 时间 _Shíjiān_ — Tiempo
+
+**Frase ejemplo:**
+
+> 我有时间。  
+> _Wǒ yǒu shíjiān._  
+> Tengo tiempo.

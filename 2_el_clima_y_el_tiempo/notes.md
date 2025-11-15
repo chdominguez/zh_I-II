@@ -70,6 +70,7 @@
 | 夏天   | xiàtiān       | verano 🌞                 |
 | 秋天   | qiūtiān       | otoño 🍂                  |
 | 冬天   | dōngtiān      | invierno ❄️               |
+| 冰雹   | bīngbáo       | granizo                   |
 
 **例句 _lìjù_ — Ejemplo:**
 
@@ -404,8 +405,350 @@ En chino, el objeto principal de la frase puede colocarse al inicio para enfatiz
 
 #### 词汇补充 _Cíhuì bǔchōng_ — Vocabulario extra
 
-| 汉字 | 拼音     | Español |
-| ---- | -------- | ------- |
-| 海边 | hǎibiān  | playa   |
-| 公园 | gōngyuán | parque  |
-| 鞋   | xié      | zapatos |
+| 汉字 | 拼音     | Español   |
+| ---- | -------- | --------- |
+| 海边 | hǎibiān  | playa     |
+| 公园 | gōngyuán | parque    |
+| 鞋   | xié      | zapatos   |
+| 休息 | xiūxi    | descansar |
+
+**例句:**
+
+> 虽然他们是好朋友，但是有时候也吵架。  
+> _Suīrán tāmen shì hǎo péngyou, dànshì yǒu shíhou yě chǎojià._  
+> Aunque son buenos amigos, a veces también discuten.
+
+En chino, los adverbios de frecuencia como 常常 (chángcháng, a menudo), 经常 (jīngcháng, frecuentemente) y 有时候 (yǒu shíhou, a veces) se colocan antes del verbo principal para indicar la frecuencia de la acción. Ejemplo: 我常常去公园 (Wǒ chángcháng qù gōngyuán) — A menudo voy al parque.
+
+#### 住房词汇 _Zhùfáng cíhuì_ — Vocabulario de vivienda
+
+| 汉字   | 拼音       | Español                              |
+| ------ | ---------- | ------------------------------------ |
+| 房子   | fángzi     | casa                                 |
+| 套房子 | tào fángzi | clasificador para casas/apartamentos |
+| 楼     | lóu        | piso/edificio                        |
+
+**例句:**
+
+> 我家有一套房子。  
+> _Wǒ jiā yǒu yī tào fángzi._  
+> En mi familia hay una casa.
+
+> 我住在五楼。  
+> _Wǒ zhù zài wǔ lóu._  
+> Vivo en el quinto piso.
+
+#### 季节词汇 _Jìjié cíhuì_ — Vocabulario de estaciones
+
+| 汉字 | 拼音     | Español      |
+| ---- | -------- | ------------ |
+| 季节 | jìjié    | estación     |
+| 春天 | chūntiān | primavera 🌸 |
+| 夏天 | xiàtiān  | verano 🌞    |
+| 秋天 | qiūtiān  | otoño 🍂     |
+| 冬天 | dōngtiān | invierno ❄️  |
+
+**例句 _lìjù_ — Ejemplos:**
+
+> 春天常常下雨。  
+> _Chūntiān chángcháng xià yǔ._  
+> En primavera llueve a menudo.
+
+> 夏天很热。  
+> _Xiàtiān hěn rè._  
+> En verano hace mucho calor.
+
+> 秋天有很多风。  
+> _Qiūtiān yǒu hěn duō fēng._  
+> En otoño hay mucho viento.
+
+> 冬天很冷，有时候下雪。  
+> _Dōngtiān hěn lěng, yǒu shíhou xià xuě._  
+> En invierno hace frío, a veces nieva.
+
+Todas acaban en 天, 秋天， 冬天，春天，夏天
+
+# 🗺️ 这里 / 这儿 & 那里 / 那儿
+
+**(zhèlǐ / zhèr & nàlǐ / nàr)**
+
+En chino, estas palabras sirven para indicar **lugares**, como “aquí” y “allí” en español.
+
+---
+
+## 📍 这里 / 这儿 (zhèlǐ / zhèr) – _Aquí_
+
+Se usa para hablar de un lugar **cercano al hablante**.
+
+### 🧩 Ejemplos
+
+- **不好意思，这里有热水吗？**  
+  _Bù hǎo yìsi, zhèlǐ yǒu rè shuǐ ma?_  
+  👉 “Perdón, ¿aquí hay agua caliente?”
+
+- **请在这儿写你的名字。**  
+  _Qǐng zài zhèr xiě nǐ de míngzì._  
+  👉 “Por favor, escribe tu nombre aquí.”
+
+---
+
+## 📍 那里 / 那儿 (nàlǐ / nàr) – _Allí / allá_
+
+Se usa para hablar de un lugar **alejado del hablante**.
+
+No confundir **nàlǐ** (那里, allá) con **nǎlǐ** (哪里, ¿dónde?). La diferencia está en el tono:
+
+- **nàlǐ** (那, cuarto tono) = allí
+- **nǎlǐ** (哪, tercer tono) = dónde
+
+Ejemplo de contraste:
+
+- 你要去哪里？ _Nǐ yào qù nǎlǐ?_ → ¿A dónde quieres ir?
+- 马丁在那里。 _Mǎdīng zài nàlǐ._ → Martín está allí.
+
+### 🧩 Ejemplos
+
+- **你看，马丁在那里。**  
+  _Nǐ kàn, Mǎdīng zài nàlǐ._  
+  👉 “Mira, Martín está allí.”
+
+- **那儿有两个杯子，哪一个是你的？**  
+  _Nàr yǒu liǎng gè bēizi, nǎ yī gè shì nǐ de?_  
+  👉 “Allí hay dos vasos, ¿cuál es el tuyo?”
+
+---
+
+## 🎯 Nota rápida
+
+- **里 (lǐ)** y **儿 (r)** significan lo mismo aquí: _“lugar”_.
+- La versión con **儿** (-r) se usa más en el norte de China (especialmente Beijing).
+
+## 🚫 不...不... — Ni... ni...
+
+结构：不 + adjetivo + 不 + adjetivo。Se usa para expresar que algo no es ni una cosa ni otra.
+
+**Ejemplos:**
+
+> 今天天气不冷不热。  
+> _Jīntiān tiānqì bù lěng bù rè._  
+> Hoy el clima no es ni frío ni caliente.
+
+> 这件衣服不大不小。  
+> _Zhè jiàn yīfu bù dà bù xiǎo._  
+> Esta prenda no es ni grande ni pequeña.
+
+> 他不高不矮。  
+> _Tā bù gāo bù ǎi._  
+> Él no es ni alto ni bajo.
+
+> 这道菜不咸不淡。  
+> _Zhè dào cài bù xián bù dàn._  
+> Este plato no está ni salado ni soso.
+
+**Explicación:**  
+El patrón 不...不... se usa para indicar que algo está en un punto intermedio entre dos cualidades opuestas, transmitiendo neutralidad o equilibrio.
+
+> La mejor estación de Barcelona es la primavera.  
+> 巴塞罗那最好的季节是春天。  
+> _Bāsàiluónà zuì hǎo de jìjié shì chūntiān._
+
+# 🗣️ 口语：Preguntas sobre estaciones y clima
+
+---
+
+## ❄️🌸☀️🍂 你最喜欢哪个季节？为什么？
+
+**Nǐ zuì xǐhuan nǎ ge jìjié? Wèishénme?**  
+👉 ¿Cuál es tu estación favorita? ¿Por qué?
+
+### ✔️ Ejemplo de respuesta:
+
+我最喜欢秋天，因为天气不冷不热。  
+_Wǒ zuì xǐhuan qiūtiān, yīnwèi tiānqì bù lěng bú rè._  
+👉 Me gusta más el otoño porque el clima no es ni frío ni caliente.
+
+---
+
+## 🧳 你喜欢哪一个季节去旅游？
+
+**Nǐ xǐhuan nǎ yí gè jìjié qù lǚyóu?**  
+👉 ¿En qué estación te gusta viajar?
+
+### ✔️ Ejemplo de respuesta:
+
+我喜欢春天去旅游，因为花很多，很漂亮。  
+_Wǒ xǐhuan chūntiān qù lǚyóu, yīnwèi huā hěn duō, hěn piàoliang._  
+👉 Me gusta viajar en primavera porque hay muchas flores y es muy bonito.
+
+---
+
+## 🌦️ 你喜欢什么样的天气？
+
+**Nǐ xǐhuan shénme yàng de tiānqì?**  
+👉 ¿Qué tipo de clima te gusta?
+
+### ✔️ Ejemplo de respuesta:
+
+我喜欢晴天，因为可以出去玩。  
+_Wǒ xǐhuan qíngtiān, yīnwèi kěyǐ chūqù wán._  
+👉 Me gustan los días soleados porque puedo salir.
+
+---
+
+## 🌡️ 你喜欢冷的天气还是热的天气呢？
+
+**Nǐ xǐhuan lěng de tiānqì háishì rè de tiānqì ne?**  
+👉 ¿Te gusta más el clima frío o el clima caluroso?
+
+### ✔️ Ejemplo de respuesta:
+
+我喜欢冷的天气，因为可以穿很多衣服。  
+_Wǒ xǐhuan lěng de tiānqì, yīnwèi kěyǐ chuān hěn duō yīfu._  
+👉 Me gusta el clima frío porque puedo usar mucha ropa.
+
+---
+
+## 🎂 你的生日在哪个季节？
+
+**Nǐ de shēngrì zài nǎ gè jìjié?**  
+👉 ¿En qué estación es tu cumpleaños?
+
+### ✔️ Ejemplo de respuesta:
+
+我的生日在夏天。  
+_Wǒ de shēngrì zài xiàtiān._  
+👉 Mi cumpleaños es en verano.
+
+---
+
+## ⛄ 冬天你喜欢做什么？
+
+**Dōngtiān nǐ xǐhuan zuò shénme?**  
+👉 ¿Qué te gusta hacer en invierno?
+
+### ✔️ Ejemplo de respuesta:
+
+冬天我喜欢在家喝热茶和看电影。  
+_Dōngtiān wǒ xǐhuan zài jiā hē rè chá hé kàn diànyǐng._  
+👉 En invierno me gusta tomar té caliente en casa y ver películas.
+
+---
+
+## 🌞 夏天你喜欢做什么？
+
+**Xiàtiān nǐ xǐhuan zuò shénme?**  
+👉 ¿Qué te gusta hacer en verano?
+
+### ✔️ Ejemplo de respuesta:
+
+夏天我喜欢去海边游泳。  
+_Xiàtiān wǒ xǐhuan qù hǎibiān yóuyǒng._  
+👉 En verano me gusta ir a la playa a nadar.
+
+》 他喜欢秋天旅游因为人不多。
+
+》他喜欢秦天的季节。他喜欢不热不冷。
+
+》 我喜欢晴天的天气。我不太喜欢冷的天气。我最喜欢热的天气。我喜欢夏天的季节。
+
+》他的生日是冬天。一月十六号。
+
+》他喜欢在家喝热茶。
+
+》他喜欢去海边游泳。
+
+### 频率副词 _Pínlǜ fùcí_ — Adverbios de frecuencia
+
+| Español        | 汉字      | Pinyin               |
+| -------------- | --------- | -------------------- |
+| siempre        | 总是      | zǒngshì              |
+| a menudo       | 经常/常常 | jīngcháng/chángcháng |
+| a veces        | 有时候    | yǒu shíhou           |
+| pocas veces    | 很少      | hěn shǎo             |
+| nunca          | 从来不    | cónglái bù           |
+| nunca he hecho | 从来没    | cónglái méi          |
+
+**Explicación:**  
+Los adverbios de frecuencia se colocan antes del verbo principal para indicar la frecuencia de la acción.
+
+**Ejemplos:**
+
+> 我总是早起。  
+> _Wǒ zǒngshì zǎoqǐ._  
+> Siempre me levanto temprano.
+
+> 我经常去公园。  
+> _Wǒ jīngcháng qù gōngyuán._  
+> A menudo voy al parque.
+
+> 我有时候喝咖啡。  
+> _Wǒ yǒu shíhou hē kāfēi._  
+> A veces tomo café.
+
+> 我很少看电视。  
+> _Wǒ hěn shǎo kàn diànshì._  
+> Rara vez veo la televisión.
+
+> 我从来不吃辣。  
+> _Wǒ cónglái bù chī là._  
+> Nunca como picante.
+
+> 我从来没去过中国。  
+> _Wǒ cónglái méi qù guò Zhōngguó._  
+> Nunca he ido a China.
+
+## 📘 Más ejemplos
+
+### 🔴 从来不 — _nunca_
+
+> 你从来不做饭！  
+> _Nǐ cónglái bù zuò fàn!_  
+> ¡Tú nunca cocinas!
+
+> 我从来不喝可乐。  
+> _Wǒ cónglái bù hē kělè._  
+> Nunca bebo Coca-Cola.
+
+---
+
+### 🟠 很少 — _pocas veces / rara vez_
+
+> 我很少生病。  
+> _Wǒ hěn shǎo shēngbìng._  
+> Rara vez me enfermo.
+
+> 春天很少下雨。  
+> _Chūntiān hěn shǎo xiàyǔ._  
+> En primavera casi nunca llueve.
+
+---
+
+### 🟡 有时候 — _a veces_
+
+> 我有时候去公园跑步。  
+> _Wǒ yǒu shíhou qù gōngyuán pǎobù._  
+> A veces voy al parque a correr.
+
+---
+
+### 🟢 经常 / 常常 — _a menudo_
+
+> 她经常去美国。  
+> _Tā jīngcháng qù Měiguó._  
+> Ella va a menudo a Estados Unidos.
+
+> 她常常吃面条。  
+> _Tā chángcháng chī miàntiáo._  
+> Ella a menudo come fideos.
+
+---
+
+### 🔵 总是 — _siempre_
+
+> 你总是这么忙！  
+> _Nǐ zǒngshì zhème máng!_  
+> ¡Siempre estás tan ocupado!
+
+> 她总是很热情。  
+> _Tā zǒngshì hěn rèqíng._  
+> Ella siempre es muy amable / entusiasta.
